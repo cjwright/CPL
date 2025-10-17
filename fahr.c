@@ -7,7 +7,7 @@ int main(){
 
     lower = 0;
     upper = 300; 
-    step = 10;
+    step = 40;
 
     fahr = lower;
     while (fahr <= upper){
