@@ -4,7 +4,7 @@ int main()
 {
 
     int fahr;
-    printf("fahr, cels\n");
+    printf("fahr, celss\n");
 
     for (fahr = 0 ; fahr <= 300; fahr = fahr + 100)
             printf("%3d %6.1f\n", fahr, (5.0/9.0)*(fahr-32));
